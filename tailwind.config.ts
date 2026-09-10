@@ -7,6 +7,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      spacing: {
+        "4.5": "1.125rem",
+        "5.5": "1.375rem",
+        "6.5": "1.625rem",
+        "7.5": "1.875rem",
+        "9.5": "2.375rem",
+        "11.5": "2.875rem",
+      },
       colors: {
         black: "#05070A",
         panel: "#0B0F16",
